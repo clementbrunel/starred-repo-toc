@@ -5,14 +5,14 @@
 | Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|1891|markdown-badges, github-profile-readme, github-profile|1-10-2021|  
-|2|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|74754|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|2-10-2021|  
+|2|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|74755|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|2-10-2021|  
 |3|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|211||24-7-2020|  
 |4|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1073||20-6-2021|  
 |5|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11664|intl, timezones, dates, times, datetime|28-9-2021|  
 |6|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36520|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |7|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|534|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |8|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1172|deprecated, entware-ng, buildroot|5-3-2018|  
-|9|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|57805|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|9|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|57806|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |10|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19544|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |11|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7217|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|22-8-2021|  
 |12|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|162|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -25,7 +25,7 @@
 |19|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8492|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |20|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7486|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
 |21|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15392|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|3-10-2021|  
-|22|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7275|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|16-9-2021|  
+|22|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7276|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|16-9-2021|  
 |23|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|278||1-10-2021|  
 |24|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|557||16-9-2021|  
 |25|[angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap.git)|Angular Developer Roadmap|893|angular, frontend|9-9-2018|  
@@ -91,7 +91,7 @@
 |85|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|387|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |86|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|291|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |87|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2646||31-3-2015|  
-|88|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|49632||3-10-2021|  
+|88|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|49633||3-10-2021|  
 |89|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4441|disqus, commenting, self-hosted, javascript, sqlite3|25-6-2021|  
 |90|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1932||7-5-2021|  
 |91|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
@@ -101,9 +101,9 @@
 |95|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |96|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |97|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
-|98|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|97774|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|4-10-2021|  
+|98|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|97776|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|4-10-2021|  
 |99|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|100|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207287|education, books, list, resource, hacktoberfest|4-10-2021|  
+|100|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207288|education, books, list, resource, hacktoberfest|4-10-2021|  
 |101|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |102|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5222||15-3-2014|  
 |103|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|608|skeleton, scala, angular|18-8-2021|  
