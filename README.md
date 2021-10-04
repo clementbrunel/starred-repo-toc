@@ -80,7 +80,7 @@
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|407||22-7-2021|  
-|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3497|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|29-9-2021|  
+|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3498|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|29-9-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|697|javascript, webpack|14-3-2021|  
 |79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7585||5-11-2020|  
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10416|angular, webpack, typescript|8-8-2020|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|387|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|291|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2646||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|49636||4-10-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|49638||4-10-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4441|disqus, commenting, self-hosted, javascript, sqlite3|25-6-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1932||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
@@ -102,7 +102,7 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|97795|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|4-10-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|97798|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|4-10-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
 |101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207292|education, books, list, resource, hacktoberfest|4-10-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
