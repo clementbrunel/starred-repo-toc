@@ -13,7 +13,7 @@
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36563|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|535|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1172|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|58528|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|58529|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19555|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7275|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|22-8-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|163|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -46,8 +46,8 @@
 |40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4172|hacktoberfest, axe, a11y, accessibility|8-10-2021|  
 |41|[nzb-subliminal](https://github.com/caronc/nzb-subliminal.git)|Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.|89|subtitle, nzbget, sabnzbd, cli, automation, nzbget-script, scheduling-script|26-8-2020|  
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subliminal - Subtitles, faster than your thoughts|2125||2-5-2020|  
-|43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|4758|scss, design-system, react, hacktoberfest|8-10-2021|  
-|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25125|react, drag-and-drop, drag, dnd, sortable, reordering|30-8-2021|  
+|43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|4759|scss, design-system, react, hacktoberfest|8-10-2021|  
+|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25124|react, drag-and-drop, drag, dnd, sortable, reordering|30-8-2021|  
 |45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6083|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2380||7-10-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9387|javascript, bootstrap, jquery, dropdown, select, ui, ux|28-9-2021|  
@@ -55,9 +55,9 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13068|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88332|http-client, javascript, nodejs, promise|7-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88331|http-client, javascript, nodejs, promise|7-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|90733|react, zero-configuration, build-tools|4-10-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|90732|react, zero-configuration, build-tools|4-10-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|20989|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|546||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16035|api, security, jwt, oauth2|31-5-2021|  
@@ -113,6 +113,6 @@
 |107|[elevator-battle](https://github.com/ybonnel/elevator-battle.git)|-|1||26-11-2013|  
 |108|[bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch.git)|Turn checkboxes and radio buttons in toggle switches.|5125|bootstrap-switch, bootstrap, switch, toggles, radio, checkbox, toggle-switches|3-1-2021|  
 |109|[tv.js](https://github.com/SamyPesse/tv.js.git)|Apple TV for Torrent Streaming in JS (Node/Chrome)|1376||25-2-2014|  
-|110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10956|javascript, jquery|7-10-2021|  
+|110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10957|javascript, jquery|7-10-2021|  
 |111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12449|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
 |112|[websql](https://github.com/intechgrp/websql.git)|Dynamic generation of web site from sql queries|6||13-11-2013|  
