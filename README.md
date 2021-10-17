@@ -6,7 +6,7 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|17-10-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2005|markdown-badges, github-profile-readme, github-profile, hacktoberfest|13-10-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|74969|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|15-10-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|74970|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|15-10-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|212||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1084||20-6-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11709|intl, timezones, dates, times, datetime|15-10-2021|  
@@ -80,7 +80,7 @@
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|407||22-7-2021|  
-|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3512|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|17-10-2021|  
+|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3513|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|17-10-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|704|javascript, webpack|14-3-2021|  
 |79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7591||5-11-2020|  
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10417|angular, webpack, typescript|8-8-2020|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98372|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|15-10-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208491|education, books, list, resource, hacktoberfest|16-10-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208492|education, books, list, resource, hacktoberfest|16-10-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5223||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|607|skeleton, scala, angular|18-8-2021|  
