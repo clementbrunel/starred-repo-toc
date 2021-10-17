@@ -10,7 +10,7 @@
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|212||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1085||20-6-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11714|intl, timezones, dates, times, datetime|15-10-2021|  
-|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36687|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
+|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36688|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|537|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1173|deprecated, entware-ng, buildroot|5-3-2018|  
 |10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|58909|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
