@@ -5,11 +5,11 @@
 | Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|24-10-2021|  
-|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2062|markdown-badges, github-profile-readme, github-profile, hacktoberfest|22-10-2021|  
+|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2063|markdown-badges, github-profile-readme, github-profile, hacktoberfest|22-10-2021|  
 |3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75085|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|22-10-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|212||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1094||20-6-2021|  
-|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11743|intl, timezones, dates, times, datetime|21-10-2021|  
+|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11744|intl, timezones, dates, times, datetime|21-10-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36768|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|538|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1173|deprecated, entware-ng, buildroot|5-3-2018|  
@@ -25,7 +25,7 @@
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|512|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8534|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7505|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15510|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|24-10-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15511|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|24-10-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7297|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|22-10-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|280||21-10-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|559||16-9-2021|  
@@ -48,7 +48,7 @@
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subliminal - Subtitles, faster than your thoughts|2129||2-5-2020|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|4794|scss, design-system, react, hacktoberfest|22-10-2021|  
 |44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25307|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
-|45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6100|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
+|45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6101|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2389||23-10-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9391|javascript, bootstrap, jquery, dropdown, select, ui, ux|13-10-2021|  
 |48|[ngx-errors](https://github.com/ultimatecourses/ngx-errors.git)|A declarative validation errors module for reactive forms.|471|angular, validation, reactive|14-2-2018|  
@@ -66,7 +66,7 @@
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57774|java, spring-boot, spring, framework|23-10-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2304|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|3996|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|14-10-2021|  
-|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53396||30-9-2018|  
+|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53397||30-9-2018|  
 |64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4464||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5634|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|30-9-2021|  
