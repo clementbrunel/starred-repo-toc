@@ -20,7 +20,7 @@
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|640|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
 |15|[swagger-codegen](https://github.com/swagger-api/swagger-codegen.git)|swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.|13649|swagger, swagger-codegen, rest, rest-api, openapi-specification, openapi3|11-10-2021|  
 |16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10051|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|24-10-2021|  
-|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|52419|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
+|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|52420|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46057||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|512|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8534|react, create-react-app, never, eject, webpack, config|5-5-2021|  
@@ -55,7 +55,7 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13110|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88683|http-client, javascript, nodejs, promise, hacktoberfest|22-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88684|http-client, javascript, nodejs, promise, hacktoberfest|22-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
 |54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91000|react, zero-configuration, build-tools|13-10-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|20996|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98550|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|22-10-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|209044|education, books, list, resource, hacktoberfest|24-10-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|209046|education, books, list, resource, hacktoberfest|24-10-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5223||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|607|skeleton, scala, angular|18-8-2021|  
