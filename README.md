@@ -6,11 +6,11 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|27-10-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2091|markdown-badges, github-profile-readme, github-profile, hacktoberfest|22-10-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75166|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|27-10-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75167|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|27-10-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|212||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1097||20-6-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11755|intl, timezones, dates, times, datetime|21-10-2021|  
-|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36818|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
+|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36819|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|538|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1174|deprecated, entware-ng, buildroot|5-3-2018|  
 |10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|59333|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
@@ -40,7 +40,7 @@
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17781|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72510|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|27-10-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|972|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
-|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131578|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|27-10-2021|  
+|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131580|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|27-10-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4724||15-10-2020|  
 |39|[create-react-app-servlet](https://github.com/megadix/create-react-app-servlet.git)|How to deploy a create-react-app boilerplate to a Java EE Servlet engine|23||20-9-2017|  
 |40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4202|hacktoberfest, axe, a11y, accessibility|27-10-2021|  
@@ -55,7 +55,7 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13116|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88766|http-client, javascript, nodejs, promise, hacktoberfest|27-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88767|http-client, javascript, nodejs, promise, hacktoberfest|27-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
 |54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91052|react, zero-configuration, build-tools|13-10-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21001|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
@@ -73,7 +73,7 @@
 |67|[angular2-localstorage](https://github.com/zoomsphere/angular2-localstorage.git)|This project is developed further under ngx-store name:|10|angular, angular2, angular4, angular-module, angular-library, localstorage, sessionstorage, storage|12-6-2017|  
 |68|[selenium-standalone](https://github.com/webdriverio/selenium-standalone.git)|A Node.js based package and CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)|861|hacktoberfest|21-10-2021|  
 |69|[tslint](https://github.com/palantir/tslint.git)|:vertical_traffic_light: An extensible linter for the TypeScript language|5925|typescript, linting-rules, linter, tslint, static-analysis, octo-correct-managed|25-3-2021|  
-|70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19030|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
+|70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19031|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|975||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2131||31-7-2021|  
 |73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11121|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|387|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|292|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2647||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50130||27-10-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50131||27-10-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4453|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1940||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
