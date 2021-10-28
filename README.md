@@ -6,26 +6,26 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|28-10-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2100|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-10-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75190|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|28-10-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75191|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|28-10-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|213||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1097||20-6-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11758|intl, timezones, dates, times, datetime|21-10-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36829|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|538|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1174|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|59403|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|59404|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19651|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7400|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|22-8-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|166|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|642|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
 |15|[swagger-codegen](https://github.com/swagger-api/swagger-codegen.git)|swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.|13663|swagger, swagger-codegen, rest, rest-api, openapi-specification, openapi3|27-10-2021|  
-|16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10103|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|27-10-2021|  
+|16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10104|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|27-10-2021|  
 |17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|52532|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46064||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|512|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8540|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7508|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15541|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|27-10-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15542|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|27-10-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7302|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|22-10-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|280||28-10-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|560||16-9-2021|  
@@ -35,10 +35,10 @@
 |29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12785|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|22-10-2021|  
 |30|[ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort.git)|Simpler, cleaner Angular validation error messages|139||27-10-2021|  
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10295|spring-boot-admin, spring-cloud, spring-boot, java|15-10-2021|  
-|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14221|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|28-10-2021|  
+|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14222|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|28-10-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||28-10-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17792|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72536|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|28-10-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72537|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|28-10-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|973|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131599|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|28-10-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4725||15-10-2020|  
@@ -55,15 +55,15 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13116|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88852|http-client, javascript, nodejs, promise, hacktoberfest|27-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88856|http-client, javascript, nodejs, promise, hacktoberfest|27-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
 |54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91070|react, zero-configuration, build-tools|13-10-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21000|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|546||1-9-2021|  
-|57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16086|api, security, jwt, oauth2|31-5-2021|  
+|57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16087|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2296|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|27-10-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7093|angular, ui, components, datatable, datagrid, charts, typescript, mit|27-10-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57819|java, spring-boot, spring, framework|28-10-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57821|java, spring-boot, spring, framework|28-10-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2306|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|3997|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|14-10-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53437||30-9-2018|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|387|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|292|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2647||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50141||27-10-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50142||27-10-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4455|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1940||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
@@ -102,9 +102,9 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98622|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|28-10-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98623|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|28-10-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|209556|education, books, list, resource, hacktoberfest|28-10-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|209560|education, books, list, resource, hacktoberfest|28-10-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5224||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|607|skeleton, scala, angular|26-10-2021|  
@@ -113,6 +113,6 @@
 |107|[elevator-battle](https://github.com/ybonnel/elevator-battle.git)|-|1||26-11-2013|  
 |108|[bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch.git)|Turn checkboxes and radio buttons in toggle switches.|5123|bootstrap-switch, bootstrap, switch, toggles, radio, checkbox, toggle-switches|3-1-2021|  
 |109|[tv.js](https://github.com/SamyPesse/tv.js.git)|Apple TV for Torrent Streaming in JS (Node/Chrome)|1376||25-2-2014|  
-|110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10972|javascript, jquery|7-10-2021|  
+|110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10971|javascript, jquery|7-10-2021|  
 |111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12450|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
 |112|[websql](https://github.com/intechgrp/websql.git)|Dynamic generation of web site from sql queries|6||13-11-2013|  
