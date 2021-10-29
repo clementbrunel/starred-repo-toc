@@ -38,7 +38,7 @@
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14229|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|29-10-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||28-10-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17816|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72574|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|29-10-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72575|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|29-10-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|973|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131651|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|29-10-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4727||15-10-2020|  
@@ -63,7 +63,7 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16094|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2299|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|27-10-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7096|angular, ui, components, datatable, datagrid, charts, typescript, mit|27-10-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57840|java, spring-boot, spring, framework|29-10-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57842|java, spring-boot, spring, framework|29-10-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2307|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4000|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|14-10-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53452||30-9-2018|  
@@ -82,7 +82,7 @@
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|407||22-7-2021|  
 |77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3521|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|28-10-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|706|javascript, webpack|14-3-2021|  
-|79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7598||5-11-2020|  
+|79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7597||5-11-2020|  
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10415|angular, webpack, typescript|8-8-2020|  
 |81|[ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar.git)|Angular 2 component shows slim loading bar at the top of the page.|371|angular, loading, bar, progress, progress-bar|26-10-2017|  
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|306||15-6-2021|  
@@ -102,7 +102,7 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98641|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|29-10-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98642|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|29-10-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
 |101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|209665|education, books, list, resource, hacktoberfest|29-10-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
