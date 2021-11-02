@@ -6,10 +6,10 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|2-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2122|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-10-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75309|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|1-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75310|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|1-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|214||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1102||29-10-2021|  
-|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11777|intl, timezones, dates, times, datetime|31-10-2021|  
+|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11778|intl, timezones, dates, times, datetime|31-10-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36888|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|539|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1174|deprecated, entware-ng, buildroot|5-3-2018|  
@@ -19,7 +19,7 @@
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|166|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|648|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
 |15|[swagger-codegen](https://github.com/swagger-api/swagger-codegen.git)|swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.|13684|swagger, swagger-codegen, rest, rest-api, openapi-specification, openapi3|29-10-2021|  
-|16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10160|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|1-11-2021|  
+|16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10160|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|2-11-2021|  
 |17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|52701|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46078||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|513|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
@@ -37,10 +37,10 @@
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10304|spring-boot-admin, spring-cloud, spring-boot, java|29-10-2021|  
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14240|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|2-11-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||1-11-2021|  
-|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17857|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
+|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17858|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72657|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|2-11-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|973|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
-|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131751|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|2-11-2021|  
+|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131752|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|2-11-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4730||15-10-2020|  
 |39|[create-react-app-servlet](https://github.com/megadix/create-react-app-servlet.git)|How to deploy a create-react-app boilerplate to a Java EE Servlet engine|23||20-9-2017|  
 |40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4215|hacktoberfest, axe, a11y, accessibility|29-10-2021|  
@@ -55,9 +55,9 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13133|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88967|http-client, javascript, nodejs, promise, hacktoberfest|29-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|88969|http-client, javascript, nodejs, promise, hacktoberfest|29-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91159|react, zero-configuration, build-tools|1-11-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91160|react, zero-configuration, build-tools|1-11-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21006|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|546||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16102|api, security, jwt, oauth2|31-5-2021|  
@@ -76,7 +76,7 @@
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19033|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|975||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2132||31-7-2021|  
-|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11140|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
+|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11141|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|407||22-7-2021|  
