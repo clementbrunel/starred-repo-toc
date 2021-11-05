@@ -6,10 +6,10 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|5-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2143|markdown-badges, github-profile-readme, github-profile, hacktoberfest|5-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75399|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|5-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75400|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|5-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|215||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1106||29-10-2021|  
-|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11796|intl, timezones, dates, times, datetime|5-11-2021|  
+|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11797|intl, timezones, dates, times, datetime|5-11-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|36948|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|540|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1175|deprecated, entware-ng, buildroot|5-3-2018|  
@@ -38,7 +38,7 @@
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14262|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|5-11-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||5-11-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|17928|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|11-10-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72739|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|5-11-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72740|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|5-11-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|973|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|131859|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|5-11-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4738||15-10-2020|  
@@ -57,11 +57,11 @@
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
 |52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|89064|http-client, javascript, nodejs, promise, hacktoberfest|29-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91270|react, zero-configuration, build-tools|4-11-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91271|react, zero-configuration, build-tools|4-11-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21007|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|546||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16111|api, security, jwt, oauth2|31-5-2021|  
-|58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2308|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|5-11-2021|  
+|58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2309|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|5-11-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7110|angular, ui, components, datatable, datagrid, charts, typescript, mit|5-11-2021|  
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57948|java, spring-boot, spring, framework|5-11-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2316|jwt|27-9-2021|  
@@ -86,7 +86,7 @@
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10411|angular, webpack, typescript|8-8-2020|  
 |81|[ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar.git)|Angular 2 component shows slim loading bar at the top of the page.|371|angular, loading, bar, progress, progress-bar|26-10-2017|  
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|306||15-6-2021|  
-|83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2225|angular, material-design, angular-material, material, teradata, angular7|8-10-2021|  
+|83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2226|angular, material-design, angular-material, material, teradata, angular7|8-10-2021|  
 |84|[ngx-datatable](https://github.com/swimlane/ngx-datatable.git)|✨  A feature-rich yet lightweight data-table crafted for Angular|4390|angular, datatable, table, grid, angular-components, datagrid, typescript, angular4, angular2, hacktoberfest|14-9-2021|  
 |85|[components](https://github.com/angular/components.git)|Component infrastructure and Material Design components for Angular|22247|angular, material-design, material, angular-components|4-11-2021|  
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|387|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
@@ -96,7 +96,7 @@
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4457|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1948||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
-|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44242|material, material-design, icons, sprites, ios, android, web|10-6-2021|  
+|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44243|material, material-design, icons, sprites, ios, android, web|10-6-2021|  
 |94|[awesome-scala](https://github.com/lauris/awesome-scala.git)|A community driven list of useful Scala libraries, frameworks and software.|8185|scala, scala-library, scalajs, awesome, awesome-list|25-10-2021|  
 |95|[algorithms](https://github.com/maniprataprana/algorithms.git)|implementations|4||7-11-2015|  
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
