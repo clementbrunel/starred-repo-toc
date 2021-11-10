@@ -6,7 +6,7 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|3|starred-repositories, starred|10-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2182|markdown-badges, github-profile-readme, github-profile, hacktoberfest|5-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75498|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|10-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75499|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|10-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|215||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1108||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11813|intl, timezones, dates, times, datetime|8-11-2021|  
@@ -63,7 +63,7 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16119|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2320|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|10-11-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7115|angular, ui, components, datatable, datagrid, charts, typescript, mit|9-11-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57997|java, spring-boot, spring, framework|9-11-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|57998|java, spring-boot, spring, framework|9-11-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2320|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4002|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53561||30-9-2018|  
@@ -80,7 +80,7 @@
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|407||22-7-2021|  
-|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3528|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|28-10-2021|  
+|77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3529|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|28-10-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|708|javascript, webpack|14-3-2021|  
 |79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7603||5-11-2020|  
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10413|angular, webpack, typescript|8-8-2020|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98781|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|10-11-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|210374|education, books, list, resource, hacktoberfest|9-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|210377|education, books, list, resource, hacktoberfest|9-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5223||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|609|skeleton, scala, angular|2-11-2021|  
