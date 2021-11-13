@@ -35,7 +35,7 @@
 |29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12812|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|9-11-2021|  
 |30|[ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort.git)|Simpler, cleaner Angular validation error messages|143||11-11-2021|  
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10331|spring-boot-admin, spring-cloud, spring-boot, java|12-11-2021|  
-|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14288|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|12-11-2021|  
+|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14288|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|13-11-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||11-11-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18027|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72897|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|12-11-2021|  
@@ -55,14 +55,14 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13164|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|987|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|89199|http-client, javascript, nodejs, promise, hacktoberfest|29-10-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|89200|http-client, javascript, nodejs, promise, hacktoberfest|29-10-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91393|react, zero-configuration, build-tools|4-11-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91394|react, zero-configuration, build-tools|4-11-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21021|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|547||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16127|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2326|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|11-11-2021|  
-|59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7123|angular, ui, components, datatable, datagrid, charts, typescript, mit|11-11-2021|  
+|59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7124|angular, ui, components, datatable, datagrid, charts, typescript, mit|11-11-2021|  
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58039|java, spring-boot, spring, framework|12-11-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2321|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4005|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
