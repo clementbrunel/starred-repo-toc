@@ -6,14 +6,14 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|16-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2214|markdown-badges, github-profile-readme, github-profile, hacktoberfest|15-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75626|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|15-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75628|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|16-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|215||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1113||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11835|intl, timezones, dates, times, datetime|8-11-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37032|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|543|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1175|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60108|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60109|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19710|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7466|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|14-11-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|167|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -38,7 +38,7 @@
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14300|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|16-11-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||15-11-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18057|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72955|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|16-11-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|72956|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|16-11-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|977|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|132285|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|15-11-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4748||15-10-2020|  
@@ -102,9 +102,9 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98870|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|16-11-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98871|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|16-11-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|210981|education, books, list, resource, hacktoberfest|15-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|210985|education, books, list, resource, hacktoberfest|15-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|599||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5223||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|608|skeleton, scala, angular|15-11-2021|  
@@ -114,5 +114,5 @@
 |108|[bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch.git)|Turn checkboxes and radio buttons in toggle switches.|5126|bootstrap-switch, bootstrap, switch, toggles, radio, checkbox, toggle-switches|3-1-2021|  
 |109|[tv.js](https://github.com/SamyPesse/tv.js.git)|Apple TV for Torrent Streaming in JS (Node/Chrome)|1377||25-2-2014|  
 |110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10987|javascript, jquery|15-11-2021|  
-|111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12457|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
+|111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12458|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
 |112|[websql](https://github.com/intechgrp/websql.git)|Dynamic generation of web site from sql queries|6||13-11-2013|  
