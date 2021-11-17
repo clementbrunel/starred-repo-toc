@@ -6,7 +6,7 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|17-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2230|markdown-badges, github-profile-readme, github-profile, hacktoberfest|15-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75669|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|17-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75670|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|17-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|216||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1113||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11838|intl, timezones, dates, times, datetime|16-11-2021|  
@@ -20,12 +20,12 @@
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|652|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
 |15|[swagger-codegen](https://github.com/swagger-api/swagger-codegen.git)|swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.|13736|swagger, swagger-codegen, rest, rest-api, openapi-specification, openapi3|8-11-2021|  
 |16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10340|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|17-11-2021|  
-|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|53125|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
+|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|53124|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|23-10-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46104||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|516|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8572|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7540|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15676|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|17-11-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15677|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|17-11-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7328|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|17-11-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|282||11-11-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|566||16-9-2021|  
@@ -57,7 +57,7 @@
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|988|react, json, json-viewer|24-10-2019|  
 |52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|89292|http-client, javascript, nodejs, promise, hacktoberfest|16-11-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|120|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91495|react, zero-configuration, build-tools|17-11-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91496|react, zero-configuration, build-tools|17-11-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21032|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|548||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16155|api, security, jwt, oauth2|31-5-2021|  
@@ -96,7 +96,7 @@
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4466|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1955||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
-|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44323|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
+|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44324|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
 |94|[awesome-scala](https://github.com/lauris/awesome-scala.git)|A community driven list of useful Scala libraries, frameworks and software.|8196|scala, scala-library, scalajs, awesome, awesome-list|25-10-2021|  
 |95|[algorithms](https://github.com/maniprataprana/algorithms.git)|implementations|4||7-11-2015|  
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|98900|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|17-11-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|211121|education, books, list, resource, hacktoberfest|17-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|211123|education, books, list, resource, hacktoberfest|17-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5223||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|607|skeleton, scala, angular|17-11-2021|  
