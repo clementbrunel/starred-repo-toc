@@ -6,7 +6,7 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|20-11-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2264|markdown-badges, github-profile-readme, github-profile, hacktoberfest|20-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75717|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|20-11-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75719|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|20-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|216||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1116||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11847|intl, timezones, dates, times, datetime|16-11-2021|  
@@ -32,7 +32,7 @@
 |26|[angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap.git)|Angular Developer Roadmap|896|angular, frontend|9-9-2018|  
 |27|[angular-testing-library](https://github.com/testing-library/angular-testing-library.git)|🦔 Simple and complete Angular testing utilities that encourage good testing practices|463|angular, testing, dom-testing-library, testing-library|17-11-2021|  
 |28|[counterpart](https://github.com/martinandert/counterpart.git)|A translation and localization library for Node.js and the browser.|239|javascript, internationalization, localization, translation, library, nodejs|28-2-2018|  
-|29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12825|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|14-11-2021|  
+|29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12826|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|14-11-2021|  
 |30|[ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort.git)|Simpler, cleaner Angular validation error messages|144||19-11-2021|  
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10346|spring-boot-admin, spring-cloud, spring-boot, java|12-11-2021|  
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14326|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|20-11-2021|  
@@ -66,7 +66,7 @@
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58211|java, spring-boot, spring, framework|20-11-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2325|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4007|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
-|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53649||30-9-2018|  
+|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53648||30-9-2018|  
 |64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4491||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5668|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|30-9-2021|  
