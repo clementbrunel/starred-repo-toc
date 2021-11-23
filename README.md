@@ -25,7 +25,7 @@
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|515|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8580|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7549|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15705|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|22-11-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15706|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|22-11-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7333|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|22-11-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|282||18-11-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|567||16-9-2021|  
@@ -40,7 +40,7 @@
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18199|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73139|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|23-11-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|977|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
-|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|132538|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|23-11-2021|  
+|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|132539|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|23-11-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4763||15-10-2020|  
 |39|[create-react-app-servlet](https://github.com/megadix/create-react-app-servlet.git)|How to deploy a create-react-app boilerplate to a Java EE Servlet engine|23||20-9-2017|  
 |40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4253|hacktoberfest, axe, a11y, accessibility|19-11-2021|  
@@ -92,11 +92,11 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|293|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2649||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50548||23-11-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50549||23-11-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4474|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1962||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
-|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44368|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
+|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44370|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
 |94|[awesome-scala](https://github.com/lauris/awesome-scala.git)|A community driven list of useful Scala libraries, frameworks and software.|8201|scala, scala-library, scalajs, awesome, awesome-list|25-10-2021|  
 |95|[algorithms](https://github.com/maniprataprana/algorithms.git)|implementations|4||7-11-2015|  
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
