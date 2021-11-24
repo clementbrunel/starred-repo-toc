@@ -20,7 +20,7 @@
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|655|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
 |15|[swagger-codegen](https://github.com/swagger-api/swagger-codegen.git)|swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.|13766|swagger, swagger-codegen, rest, rest-api, openapi-specification, openapi3|19-11-2021|  
 |16|[openapi-generator](https://github.com/OpenAPITools/openapi-generator.git)|OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)|10435|rest-api, rest-client, sdk, generator, restful-api, api, api-client, api-server, openapi3, openapi, rest, openapi-generator, hacktoberfest|24-11-2021|  
-|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|53371|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|22-11-2021|  
+|17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|53372|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|22-11-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46120||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|516|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8584|react, create-react-app, never, eject, webpack, config|5-5-2021|  
@@ -67,7 +67,7 @@
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2329|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4012|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53678||30-9-2018|  
-|64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4493||9-2-2020|  
+|64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4494||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5669|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|30-9-2021|  
 |67|[angular2-localstorage](https://github.com/zoomsphere/angular2-localstorage.git)|This project is developed further under ngx-store name:|10|angular, angular2, angular4, angular-module, angular-library, localstorage, sessionstorage, storage|12-6-2017|  
