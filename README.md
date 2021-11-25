@@ -9,7 +9,7 @@
 |3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|75850|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|25-11-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|216||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1124||29-10-2021|  
-|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11859|intl, timezones, dates, times, datetime|16-11-2021|  
+|6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11860|intl, timezones, dates, times, datetime|16-11-2021|  
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37149|time, date, date-formatting, datetime, moment, dayjs|10-9-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|544|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1175|deprecated, entware-ng, buildroot|5-3-2018|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5294||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99051|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|25-11-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|211644|education, books, list, resource, hacktoberfest|23-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|211646|education, books, list, resource, hacktoberfest|23-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5221||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|608|skeleton, scala, angular|23-11-2021|  
