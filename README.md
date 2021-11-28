@@ -35,7 +35,7 @@
 |29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12837|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|23-11-2021|  
 |30|[ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort.git)|Simpler, cleaner Angular validation error messages|145||25-11-2021|  
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10357|spring-boot-admin, spring-cloud, spring-boot, java|26-11-2021|  
-|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14357|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|28-11-2021|  
+|32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14358|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|28-11-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||25-11-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18262|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73260|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|28-11-2021|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|293|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2650||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50863||25-11-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|50867||25-11-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4475|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1963||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
@@ -102,9 +102,9 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|19-10-2020|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5294||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99096|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|26-11-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99097|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|26-11-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|212153|education, books, list, resource, hacktoberfest|23-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|212157|education, books, list, resource, hacktoberfest|23-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5221||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|609|skeleton, scala, angular|23-11-2021|  
