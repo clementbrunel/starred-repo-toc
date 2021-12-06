@@ -13,7 +13,7 @@
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37259|time, date, date-formatting, datetime, moment, dayjs|29-11-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|545|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1176|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60625|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60627|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19782|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7599|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|14-11-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|168|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -23,7 +23,7 @@
 |17|[nvm](https://github.com/nvm-sh/nvm.git)|Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions|53597|nvm, nodejs, node, node-js, version-manager, posix, posix-compliant, bash, zsh, shell, nvmrc, lts, install|3-12-2021|  
 |18|[moment](https://github.com/moment/moment.git)|Parse, validate, manipulate, and display dates in javascript.|46143||21-2-2021|  
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|519|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
-|20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8601|react, create-react-app, never, eject, webpack, config|5-5-2021|  
+|20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8602|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7562|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
 |22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15768|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|5-12-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7351|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|2-12-2021|  
@@ -37,8 +37,8 @@
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10379|spring-boot-admin, spring-cloud, spring-boot, java|29-11-2021|  
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14389|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|6-12-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |57||4-12-2021|  
-|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18371|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73445|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|5-12-2021|  
+|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18373|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|12-11-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73445|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|6-12-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|979|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|132884|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|5-12-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4779||15-10-2020|  
@@ -50,7 +50,7 @@
 |44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25695|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
 |45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6150|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2431||6-12-2021|  
-|47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9434|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
+|47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9435|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
 |48|[ngx-errors](https://github.com/ultimatecourses/ngx-errors.git)|A declarative validation errors module for reactive forms.|472|angular, validation, reactive|14-2-2018|  
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|68||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13211|redux, devtools, debug, extension, javascript|19-2-2020|  
@@ -76,7 +76,7 @@
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19058|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|974||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2139||31-7-2021|  
-|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11253|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
+|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11254|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|408||22-7-2021|  
@@ -104,15 +104,15 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5295||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99217|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|6-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214058|education, books, list, resource, hacktoberfest|29-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214073|education, books, list, resource, hacktoberfest|29-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|597||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5221||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|609|skeleton, scala, angular|3-12-2021|  
 |105|[programmation-pour-les-enfants](https://github.com/elefevre/programmation-pour-les-enfants.git)|Des ressources pour initier ses enfants aux principes de la programmation.|127||5-1-2021|  
 |106|[playground-courses](https://github.com/afronski/playground-courses.git)|Notes, tasks, assignments and related ideas/prototypes from my e-learning platforms.|30||15-8-2016|  
 |107|[elevator-battle](https://github.com/ybonnel/elevator-battle.git)|-|1||26-11-2013|  
-|108|[bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch.git)|Turn checkboxes and radio buttons in toggle switches.|5129|bootstrap-switch, bootstrap, switch, toggles, radio, checkbox, toggle-switches|3-1-2021|  
+|108|[bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch.git)|Turn checkboxes and radio buttons in toggle switches.|5130|bootstrap-switch, bootstrap, switch, toggles, radio, checkbox, toggle-switches|3-1-2021|  
 |109|[tv.js](https://github.com/SamyPesse/tv.js.git)|Apple TV for Torrent Streaming in JS (Node/Chrome)|1375||25-2-2014|  
 |110|[jquery-ui](https://github.com/jquery/jquery-ui.git)|The official jQuery user interface library.|10994|javascript, jquery|30-11-2021|  
-|111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12461|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
+|111|[bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker.git)|A datepicker for twitter bootstrap (@twbs)|12462|bootstrap-datepicker, javascript, bootstrap|24-1-2021|  
 |112|[websql](https://github.com/intechgrp/websql.git)|Dynamic generation of web site from sql queries|6||13-11-2013|  
