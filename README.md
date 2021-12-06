@@ -5,7 +5,7 @@
 | Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|6-12-2021|  
-|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2362|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
+|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2363|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
 |3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76042|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|6-12-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|217||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1135||29-10-2021|  
@@ -14,7 +14,7 @@
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|545|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1176|deprecated, entware-ng, buildroot|5-3-2018|  
 |10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60631|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
-|11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19784|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
+|11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19785|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7601|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|14-11-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|168|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
 |14|[lofi](https://github.com/dvx/lofi.git)|🎵🔉 A mini Spotify player with WebGL visualizations.|656|spotify, webgl, spotify-desktop, mini-spotify-player, audio-player, tiny-spotify-player, media|16-9-2021|  
@@ -25,14 +25,14 @@
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|519|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8602|react, create-react-app, never, eject, webpack, config|5-5-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7563|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15769|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|6-12-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15771|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|6-12-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7351|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|2-12-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|282||2-12-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|569||4-12-2021|  
 |26|[angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap.git)|Angular Developer Roadmap|898|angular, frontend|9-9-2018|  
 |27|[angular-testing-library](https://github.com/testing-library/angular-testing-library.git)|🦔 Simple and complete Angular testing utilities that encourage good testing practices|464|angular, testing, dom-testing-library, testing-library|3-12-2021|  
 |28|[counterpart](https://github.com/martinandert/counterpart.git)|A translation and localization library for Node.js and the browser.|239|javascript, internationalization, localization, translation, library, nodejs|28-2-2018|  
-|29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12848|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|5-12-2021|  
+|29|[formatjs](https://github.com/formatjs/formatjs.git)|The monorepo home to all of the FormatJS related libraries, most notably react-intl.|12849|javascript, react, i18n, formatjs, internationalization, globalization, localization, intl, translation, web, ui|5-12-2021|  
 |30|[ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort.git)|Simpler, cleaner Angular validation error messages|146||4-12-2021|  
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10379|spring-boot-admin, spring-cloud, spring-boot, java|29-11-2021|  
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14390|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|6-12-2021|  
@@ -47,7 +47,7 @@
 |41|[nzb-subliminal](https://github.com/caronc/nzb-subliminal.git)|Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.|91|subtitle, nzbget, sabnzbd, cli, automation, nzbget-script, scheduling-script|26-8-2020|  
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subliminal - Subtitles, faster than your thoughts|2141||19-11-2021|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|4983|scss, design-system, react, hacktoberfest|3-12-2021|  
-|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25695|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
+|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25696|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
 |45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6150|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2431||6-12-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9437|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
@@ -63,16 +63,16 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16299|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2377|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|6-12-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7165|angular, ui, components, datatable, datagrid, charts, typescript, mit|3-12-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58495|java, spring-boot, spring, framework|3-12-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58496|java, spring-boot, spring, framework|3-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2337|jwt|27-9-2021|  
-|62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4021|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
+|62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4022|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53765||30-9-2018|  
 |64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4511||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5687|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|29-11-2021|  
 |67|[angular2-localstorage](https://github.com/zoomsphere/angular2-localstorage.git)|This project is developed further under ngx-store name:|10|angular, angular2, angular4, angular-module, angular-library, localstorage, sessionstorage, storage|12-6-2017|  
 |68|[selenium-standalone](https://github.com/webdriverio/selenium-standalone.git)|A Node.js based package and CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)|864|hacktoberfest|30-11-2021|  
-|69|[tslint](https://github.com/palantir/tslint.git)|:vertical_traffic_light: An extensible linter for the TypeScript language|5923|typescript, linting-rules, linter, tslint, static-analysis, octo-correct-managed|25-3-2021|  
+|69|[tslint](https://github.com/palantir/tslint.git)|:vertical_traffic_light: An extensible linter for the TypeScript language|5924|typescript, linting-rules, linter, tslint, static-analysis, octo-correct-managed|25-3-2021|  
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19058|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|974||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2139||31-7-2021|  
@@ -102,9 +102,9 @@
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
 |97|[algorithmic-programming](https://github.com/anuragkapur/algorithmic-programming.git)|Algorithmic Programming Exercises|19|algorithms, java, data-structures, algorithmic-programming-exercises|3-12-2021|  
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5295||19-2-2019|  
-|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99222|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|6-12-2021|  
+|99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99224|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|6-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214139|education, books, list, resource, hacktoberfest|29-11-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214151|education, books, list, resource, hacktoberfest|29-11-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|597||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5221||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|609|skeleton, scala, angular|3-12-2021|  
