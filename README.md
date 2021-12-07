@@ -6,11 +6,11 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|7-12-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2370|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76064|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|6-12-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76065|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|6-12-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|218||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1136||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11891|intl, timezones, dates, times, datetime|16-11-2021|  
-|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37278|time, date, date-formatting, datetime, moment, dayjs|29-11-2021|  
+|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37280|time, date, date-formatting, datetime, moment, dayjs|29-11-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|545|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1175|deprecated, entware-ng, buildroot|5-3-2018|  
 |10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60661|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
@@ -47,7 +47,7 @@
 |41|[nzb-subliminal](https://github.com/caronc/nzb-subliminal.git)|Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.|91|subtitle, nzbget, sabnzbd, cli, automation, nzbget-script, scheduling-script|26-8-2020|  
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subliminal - Subtitles, faster than your thoughts|2142||19-11-2021|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|4991|scss, design-system, react, hacktoberfest|6-12-2021|  
-|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25708|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
+|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25709|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
 |45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6151|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2432||6-12-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9439|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
@@ -63,7 +63,7 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16305|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2378|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|6-12-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7167|angular, ui, components, datatable, datagrid, charts, typescript, mit|7-12-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58510|java, spring-boot, spring, framework|6-12-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58511|java, spring-boot, spring, framework|6-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2337|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4021|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53773||30-9-2018|  
@@ -76,7 +76,7 @@
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19063|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|974||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2139||31-7-2021|  
-|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11258|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
+|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11257|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|408||22-7-2021|  
@@ -96,7 +96,7 @@
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4478|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1964||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
-|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44475|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
+|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44474|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
 |94|[awesome-scala](https://github.com/lauris/awesome-scala.git)|A community driven list of useful Scala libraries, frameworks and software.|8205|scala, scala-library, scalajs, awesome, awesome-list|25-10-2021|  
 |95|[algorithms](https://github.com/maniprataprana/algorithms.git)|implementations|4||7-11-2015|  
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5295||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99243|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|6-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214374|education, books, list, resource, hacktoberfest|6-12-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|214379|education, books, list, resource, hacktoberfest|6-12-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|597||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5220||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|610|skeleton, scala, angular|6-12-2021|  
