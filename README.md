@@ -5,7 +5,7 @@
 | Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|11-12-2021|  
-|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2399|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
+|2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2400|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
 |3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76358|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|9-12-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|219||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1140||29-10-2021|  
@@ -13,7 +13,7 @@
 |7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37321|time, date, date-formatting, datetime, moment, dayjs|29-11-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|545|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1176|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60728|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|60729|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19810|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7662|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|14-11-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|168|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -38,7 +38,7 @@
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14408|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|11-12-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |58||10-12-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18467|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|10-12-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73565|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|11-12-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73566|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|11-12-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|978|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|133159|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|11-12-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4785||15-10-2020|  
