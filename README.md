@@ -38,7 +38,7 @@
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14408|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|12-12-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |58||10-12-2021|  
 |34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18472|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|10-12-2021|  
-|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73575|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|11-12-2021|  
+|35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73576|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|11-12-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|978|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|133176|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|11-12-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4787||15-10-2020|  
@@ -48,7 +48,7 @@
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subtitles, faster than your thoughts|2143||19-11-2021|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|5000|scss, design-system, react, hacktoberfest|10-12-2021|  
 |44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25745|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
-|45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6154|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
+|45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6155|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2435||8-12-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9440|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
 |48|[ngx-errors](https://github.com/ultimatecourses/ngx-errors.git)|A declarative validation errors module for reactive forms.|472|angular, validation, reactive|14-2-2018|  
@@ -63,7 +63,7 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16319|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2388|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|10-12-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7171|angular, ui, components, datatable, datagrid, charts, typescript, mit|8-12-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58595|java, spring-boot, spring, framework|11-12-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58596|java, spring-boot, spring, framework|11-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2339|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4025|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53808||30-9-2018|  
@@ -76,7 +76,7 @@
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19064|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|974||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2140||31-7-2021|  
-|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11262|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
+|73|[http-server](https://github.com/http-party/http-server.git)|a simple zero-configuration command-line http server|11263|http, static, hosting, server, command-line, hacktoberfest|19-10-2021|  
 |74|[protractor-beautiful-reporter](https://github.com/Evilweed/protractor-beautiful-reporter.git)|An npm module which provides html reports of your Protractor tests with screenshots|170||28-9-2020|  
 |75|[protractor-jasmine2-html-reporter](https://github.com/Kenzitron/protractor-jasmine2-html-reporter.git)|HTML reporter for Jasmine2 and Protractor|32||30-12-2016|  
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|409||22-7-2021|  
@@ -86,7 +86,7 @@
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10411|angular, webpack, typescript|8-8-2020|  
 |81|[ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar.git)|Angular 2 component shows slim loading bar at the top of the page.|371|angular, loading, bar, progress, progress-bar|26-10-2017|  
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|306||15-6-2021|  
-|83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2230|angular, material-design, angular-material, material, teradata, angular7|7-12-2021|  
+|83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2229|angular, material-design, angular-material, material, teradata, angular7|7-12-2021|  
 |84|[ngx-datatable](https://github.com/swimlane/ngx-datatable.git)|✨  A feature-rich yet lightweight data-table crafted for Angular|4417|angular, datatable, table, grid, angular-components, datagrid, typescript, angular4, angular2, hacktoberfest|9-11-2021|  
 |85|[components](https://github.com/angular/components.git)|Component infrastructure and Material Design components for Angular|22358|angular, material-design, material, angular-components|10-12-2021|  
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5293||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99296|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|10-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|215177|education, books, list, resource, hacktoberfest|8-12-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|215180|education, books, list, resource, hacktoberfest|8-12-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|596||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5220||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|612|skeleton, scala, angular|10-12-2021|  
