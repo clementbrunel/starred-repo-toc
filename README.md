@@ -57,7 +57,7 @@
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|989|react, json, json-viewer|24-10-2019|  
 |52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|89779|http-client, javascript, nodejs, promise, hacktoberfest|16-11-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|121|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91954|react, zero-configuration, build-tools|14-12-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|91955|react, zero-configuration, build-tools|14-12-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21057|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|549||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16326|api, security, jwt, oauth2|31-5-2021|  
@@ -96,7 +96,7 @@
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4486|disqus, commenting, self-hosted, javascript, sqlite3|24-10-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1971||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
-|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44509|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
+|93|[material-design-icons](https://github.com/google/material-design-icons.git)|Material Design icons by Google|44508|material, material-design, icons, sprites, ios, android, web|15-11-2021|  
 |94|[awesome-scala](https://github.com/lauris/awesome-scala.git)|A community driven list of useful Scala libraries, frameworks and software.|8213|scala, scala-library, scalajs, awesome, awesome-list|25-10-2021|  
 |95|[algorithms](https://github.com/maniprataprana/algorithms.git)|implementations|4||7-11-2015|  
 |96|[expecty](https://github.com/pniederw/expecty.git)|Power assertions (as known from Groovy and Spock) for the Scala language.|188||15-4-2014|  
