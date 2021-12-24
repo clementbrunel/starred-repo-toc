@@ -6,14 +6,14 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generates Markdown table for all Starred Repositories by a GitHub user.|4|starred-repositories, starred|24-12-2021|  
 |2|[markdown-badges](https://github.com/Ileriayo/markdown-badges.git)|Badges for your Profile and Projects.|2480|markdown-badges, github-profile-readme, github-profile, hacktoberfest|28-11-2021|  
-|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76596|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|24-12-2021|  
+|3|[ant-design](https://github.com/ant-design/ant-design.git)|An enterprise-class UI design language and React UI library|76598|react, ui-kit, typescript, antd, ant-design, design-systems, ui-library|24-12-2021|  
 |4|[convert-excel-to-json](https://github.com/DiegoZoracKy/convert-excel-to-json.git)|Convert Excel to JSON, mapping sheet columns to object keys.|222||24-7-2020|  
 |5|[electron-typescript-react](https://github.com/diego3g/electron-typescript-react.git)|:electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.|1153||29-10-2021|  
 |6|[luxon](https://github.com/moment/luxon.git)|⏱ A library for working with dates and times in JS|11939|intl, timezones, dates, times, datetime|22-12-2021|  
-|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37427|time, date, date-formatting, datetime, moment, dayjs|16-12-2021|  
+|7|[dayjs](https://github.com/iamkun/dayjs.git)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37428|time, date, date-formatting, datetime, moment, dayjs|16-12-2021|  
 |8|[create-react-app-antd](https://github.com/ant-design/create-react-app-antd.git)|Use antd in create-react-app without ejecting ✨|549|create-react-app, antd, ant-design, craco, react|26-8-2021|  
 |9|[Entware-ng](https://github.com/Entware/Entware-ng.git)|Entware-ng|1176|deprecated, entware-ng, buildroot|5-3-2018|  
-|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|61150|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
+|10|[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript.git)|:bathtub: Clean Code concepts adapted for JavaScript|61151|javascript, principles, composition, inheritance, clean-code, clean-architecture, best-practices|23-5-2021|  
 |11|[localForage](https://github.com/localForage/localForage.git)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19866|localforage, localstorage, javascript, offline, storage, indexeddb, websql|3-10-2021|  
 |12|[why-did-you-render](https://github.com/welldone-software/why-did-you-render.git)|why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)|7726|react, component, pure, performance, render, update, tool, react-native, purecomponent, hooks-tracking|14-11-2021|  
 |13|[graphql-kafka-subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions.git)|Apollo graphql subscriptions over Kafka protocol|167|kafka, graphql, apollographql, graphql-subscriptions|27-8-2020|  
@@ -25,7 +25,7 @@
 |19|[huestacean](https://github.com/BradyBrenot/huestacean.git)|Philips Hue control app for desktop with screen syncing. C++ with Qt Quick GUI.|522|philips-hue, philips-hue-lights, cpp, qt, qtquick|16-6-2019|  
 |20|[react-app-rewired](https://github.com/timarney/react-app-rewired.git)|Override create-react-app webpack configs without ejecting|8640|react, create-react-app, never, eject, webpack, config|22-12-2021|  
 |21|[dejavu](https://github.com/appbaseio/dejavu.git)|The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.|7579|elasticsearch-plugin, chrome-extension, dejavu, appbaseio, elasticsearch, database-gui, realtime-updates, elasticsearch-gui, react, reactjs, nosql, database, opensearch-plugins, opensearch|10-9-2021|  
-|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15905|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|23-12-2021|  
+|22|[core-js](https://github.com/zloirock/core-js.git)|Standard Library|15907|proposal, polyfill, shim, es6, promise, weakmap, es7, es2015, esnext, symbol, ponyfill, es2019, javascript, js, ecmascript-proposals, proposals|23-12-2021|  
 |23|[nebular](https://github.com/akveo/nebular.git)|:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode|7376|angular, ui, ui-kit, authentication, theme, multitheme, modular, typescript, sass, webpack, angular-cli, angular5, angular4, angular2, angular-components, ngx-admin, angular6, nebular-modules, akveo, angular7|2-12-2021|  
 |24|[angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff.git)|Easily upgrade your Angular CLI applications from one version to another 🚀|283||16-12-2021|  
 |25|[detect-browser](https://github.com/DamonOehlman/detect-browser.git)|Unpack a browser type and version from the useragent string|572||4-12-2021|  
@@ -43,7 +43,7 @@
 |37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|133576|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|24-12-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4795||15-10-2020|  
 |39|[create-react-app-servlet](https://github.com/megadix/create-react-app-servlet.git)|How to deploy a create-react-app boilerplate to a Java EE Servlet engine|22||20-9-2017|  
-|40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4299|hacktoberfest, axe, a11y, accessibility|22-12-2021|  
+|40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4300|hacktoberfest, axe, a11y, accessibility|22-12-2021|  
 |41|[nzb-subliminal](https://github.com/caronc/nzb-subliminal.git)|Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.|91|subtitle, nzbget, sabnzbd, cli, automation, nzbget-script, scheduling-script|26-8-2020|  
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subtitles, faster than your thoughts|2149||19-11-2021|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|5032|scss, design-system, react, hacktoberfest|17-12-2021|  
@@ -66,7 +66,7 @@
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58816|java, spring-boot, spring, framework|24-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2350|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4028|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
-|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53933||30-9-2018|  
+|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53934||30-9-2018|  
 |64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4534||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5710|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|23-12-2021|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|293|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2652||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|51640||24-12-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|51641||24-12-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4490|disqus, commenting, self-hosted, javascript, sqlite3|24-12-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1969||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
