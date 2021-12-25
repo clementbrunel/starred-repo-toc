@@ -63,7 +63,7 @@
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16354|api, security, jwt, oauth2|31-5-2021|  
 |58|[primereact](https://github.com/primefaces/primereact.git)|The Most Complete React UI Component Library|2399|ui-components, react-components, charts, tree, primereact, react, treetable, grid, datatable, material, bootstrap, flex-carousel, responsive-components, flex-galleria, ripple, ripple-effect, flex, material-table, bootstrap-table|23-12-2021|  
 |59|[primeng](https://github.com/primefaces/primeng.git)|The Most Complete Angular UI Component Library|7187|angular, ui, components, datatable, datagrid, charts, typescript, mit|24-12-2021|  
-|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58830|java, spring-boot, spring, framework|25-12-2021|  
+|60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58831|java, spring-boot, spring, framework|25-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2353|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4029|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
 |63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53936||30-9-2018|  
@@ -83,7 +83,7 @@
 |77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3570|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|15-12-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|728|javascript, webpack|14-3-2021|  
 |79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7616||5-11-2020|  
-|80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10406|angular, webpack, typescript|8-8-2020|  
+|80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10407|angular, webpack, typescript|8-8-2020|  
 |81|[ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar.git)|Angular 2 component shows slim loading bar at the top of the page.|371|angular, loading, bar, progress, progress-bar|26-10-2017|  
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|307||15-6-2021|  
 |83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2231|angular, material-design, angular-material, material, teradata, angular7|13-12-2021|  
@@ -92,7 +92,7 @@
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|293|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2652||31-3-2015|  
-|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|51662||24-12-2021|  
+|89|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|51663||24-12-2021|  
 |90|[isso](https://github.com/posativ/isso.git)|a Disqus alternative|4490|disqus, commenting, self-hosted, javascript, sqlite3|24-12-2021|  
 |91|[YellowLabTools](https://github.com/YellowLabTools/YellowLabTools.git)|WebPerf and front-end quality testing tool|1970||7-5-2021|  
 |92|[eventual](https://github.com/sarilgithub/eventual.git)|The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project|119||16-11-2020|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99461|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|23-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217075|education, books, list, resource, hacktoberfest|20-12-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217076|education, books, list, resource, hacktoberfest|20-12-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|597||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5220||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|616|skeleton, scala, angular|24-12-2021|  
