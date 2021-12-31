@@ -37,10 +37,10 @@
 |31|[spring-boot-admin](https://github.com/codecentric/spring-boot-admin.git)|Admin UI for administration of spring boot applications|10450|spring-boot-admin, spring-cloud, spring-boot, java|23-12-2021|  
 |32|[bit](https://github.com/teambit/bit.git)|A tool for component-driven application development. |14486|react, javascript, typescript, front-end, node-js, reactjs-components, vue, collaboration, angular, component-driven, component-driven-design, distributed, polyrepo, monorepo|31-12-2021|  
 |33|[ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos.git)|Simpler, cleaner Angular unit tests |58||28-12-2021|  
-|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18797|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|16-12-2021|  
+|34|[nvm-windows](https://github.com/coreybutler/nvm-windows.git)|A node.js version management utility for Windows. Ironically written in Go.|18798|node, versioning, management, version-manager, windows, nodejs, version, nvm, go, switch|16-12-2021|  
 |35|[material-ui](https://github.com/mui-org/material-ui.git)|MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.|73981|react-components, react, javascript, material-design, design-systems, typescript, hacktoberfest|30-12-2021|  
 |36|[luna](https://github.com/rvpanoz/luna.git)|Manage npm dependencies through a modern UI.|980|javascript, electron, npm, nodejs, npm-management, linux, windows, macos, react, material-ui, rxjs6, npm-gui, npm-desktop-manager, reactjs, webpack, observables, redux, redux-observable, epics|31-10-2020|  
-|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|133744|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|31-12-2021|  
+|37|[flutter](https://github.com/flutter/flutter.git)|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|133745|mobile, android, ios, material-design, dart, skia, web, web-framework, windows, macos, fuchsia, dart-platform, linux-desktop, app-framework, desktop|31-12-2021|  
 |38|[immutability-helper](https://github.com/kolodny/immutability-helper.git)|mutate a copy of data without changing the original source|4800||15-10-2020|  
 |39|[create-react-app-servlet](https://github.com/megadix/create-react-app-servlet.git)|How to deploy a create-react-app boilerplate to a Java EE Servlet engine|22||20-9-2017|  
 |40|[axe-core](https://github.com/dequelabs/axe-core.git)|Accessibility engine for automated Web UI testing|4307|hacktoberfest, axe, a11y, accessibility|22-12-2021|  
@@ -57,7 +57,7 @@
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|989|react, json, json-viewer|24-10-2019|  
 |52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|90172|http-client, javascript, nodejs, promise, hacktoberfest|29-12-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|121|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
-|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|92552|react, zero-configuration, build-tools|14-12-2021|  
+|54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|92553|react, zero-configuration, build-tools|14-12-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21069|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
 |56|[infinitest](https://github.com/infinitest/infinitest.git)|Infinitest: The Continuous Test Runner for the JVM|548||1-9-2021|  
 |57|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist.git)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|16371|api, security, jwt, oauth2|31-5-2021|  
@@ -82,7 +82,7 @@
 |76|[docblockr](https://github.com/nikhilkalige/docblockr.git)|DocBlockr is a package for Atom which is designed to make writing documentation faster and easier.|409||22-7-2021|  
 |77|[compodoc](https://github.com/compodoc/compodoc.git)|:notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application|3571|angular, documentation-tool, typescript, documentation, jsdoc, devtools, angular2, generator, ast|29-12-2021|  
 |78|[circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin.git)|Detect circular dependencies in modules compiled with Webpack|730|javascript, webpack|14-3-2021|  
-|79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7622||5-11-2020|  
+|79|[Pikaday](https://github.com/Pikaday/Pikaday.git)|A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS|7623||5-11-2020|  
 |80|[angular-starter](https://github.com/PatrickJS/angular-starter.git)|Angular Starter|10405|angular, webpack, typescript|8-8-2020|  
 |81|[ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar.git)|Angular 2 component shows slim loading bar at the top of the page.|371|angular, loading, bar, progress, progress-bar|26-10-2017|  
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|307||15-6-2021|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99535|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|29-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217744|education, books, list, resource, hacktoberfest|28-12-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217747|education, books, list, resource, hacktoberfest|28-12-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5220||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|619|skeleton, scala, angular|29-12-2021|  
