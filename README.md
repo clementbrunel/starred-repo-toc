@@ -47,7 +47,7 @@
 |41|[nzb-subliminal](https://github.com/caronc/nzb-subliminal.git)|Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.|91|subtitle, nzbget, sabnzbd, cli, automation, nzbget-script, scheduling-script|26-8-2020|  
 |42|[subliminal](https://github.com/Diaoul/subliminal.git)|Subtitles, faster than your thoughts|2153||19-11-2021|  
 |43|[carbon](https://github.com/carbon-design-system/carbon.git)|A design system built by IBM|5041|scss, design-system, react, hacktoberfest|17-12-2021|  
-|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25891|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
+|44|[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd.git)|Beautiful and accessible drag and drop for lists with React|25892|react, drag-and-drop, drag, dnd, sortable, reordering|15-10-2021|  
 |45|[community-edition](https://github.com/ramboxapp/community-edition.git)|Free and Open Source messaging and emailing app that combines common web applications into one.|6186|windows, macos, linux, whatsapp, messenger, skype, email, gmail, outlook, icloud, hangouts, slack, telegram, microsoft-teams, facebook-workplace, custom-services, discord, hipchat, inbox, tweetdeck|4-9-2021|  
 |46|[spksrc](https://github.com/SynoCommunity/spksrc.git)|Cross compilation framework to create native packages for the Synology's NAS|2457||30-12-2021|  
 |47|[bootstrap-select](https://github.com/snapappointments/bootstrap-select.git)|:rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.|9447|javascript, bootstrap, jquery, dropdown, select, ui, ux|27-11-2021|  
@@ -55,7 +55,7 @@
 |49|[takari-cpsuite](https://github.com/takari/takari-cpsuite.git)|-|69||1-9-2020|  
 |50|[redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension.git)|Redux DevTools extension.|13259|redux, devtools, debug, extension, javascript|19-2-2020|  
 |51|[react-json-tree](https://github.com/alexkuz/react-json-tree.git)|React JSON Viewer Component, Extracted from redux-devtools|989|react, json, json-viewer|24-10-2019|  
-|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|90178|http-client, javascript, nodejs, promise, hacktoberfest|29-12-2021|  
+|52|[axios](https://github.com/axios/axios.git)|Promise based HTTP client for the browser and node.js|90177|http-client, javascript, nodejs, promise, hacktoberfest|29-12-2021|  
 |53|[react-cookies](https://github.com/bukinoshita/react-cookies.git)|:cookie: Load and save cookies with React|121|react, cookies, cookie, react-cookies, react-cookie|2-6-2021|  
 |54|[create-react-app](https://github.com/facebook/create-react-app.git)|Set up a modern web app by running one command.|92558|react, zero-configuration, build-tools|14-12-2021|  
 |55|[react-starter-kit](https://github.com/kriasoft/react-starter-kit.git)|React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture|21070|react, javascript, graphql, boilerplate, reactjs, webpack, babel, nodejs, ssr, starter-kit, typescript, template, relay, cloudflare, serverless, cdn, webpack5, scaffolding, hackathon, material-ui|20-6-2021|  
@@ -66,13 +66,13 @@
 |60|[spring-boot](https://github.com/spring-projects/spring-boot.git)|Spring Boot|58907|java, spring-boot, spring, framework|30-12-2021|  
 |61|[jwt-decode](https://github.com/auth0/jwt-decode.git)|Decode JWT tokens; useful for browser applications.|2358|jwt|27-9-2021|  
 |62|[core](https://github.com/ngx-translate/core.git)|The internationalization (i18n) library for Angular|4030|angular, i18n, translation, npm-package, angular2, ngx, ngx-translate|8-11-2021|  
-|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53976||30-9-2018|  
+|63|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53977||30-9-2018|  
 |64|[rimraf](https://github.com/isaacs/rimraf.git)|A `rm -rf` util for nodejs|4537||9-2-2020|  
 |65|[ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable.git)|Angular 5+ DataTable component for using with Material Design 2|39|angular2, material-design, datatable, pagination-component, ng2-md-datatable, deprecated, obsolete, archived|13-4-2021|  
 |66|[flex-layout](https://github.com/angular/flex-layout.git)|Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API |5710|flexbox, grid, responsive, layout, mediaquery, engine, angular, adaptive|29-12-2021|  
 |67|[angular2-localstorage](https://github.com/zoomsphere/angular2-localstorage.git)|This project is developed further under ngx-store name:|10|angular, angular2, angular4, angular-module, angular-library, localstorage, sessionstorage, storage|12-6-2017|  
 |68|[selenium-standalone](https://github.com/webdriverio/selenium-standalone.git)|A Node.js based package and CLI library for launching Selenium with WebDrivers support (Chrome, Firefox, IE, Edge)|869|hacktoberfest|20-12-2021|  
-|69|[tslint](https://github.com/palantir/tslint.git)|:vertical_traffic_light: An extensible linter for the TypeScript language|5921|typescript, linting-rules, linter, tslint, static-analysis, octo-correct-managed|25-3-2021|  
+|69|[tslint](https://github.com/palantir/tslint.git)|:vertical_traffic_light: An extensible linter for the TypeScript language|5920|typescript, linting-rules, linter, tslint, static-analysis, octo-correct-managed|25-3-2021|  
 |70|[nightmare](https://github.com/segmentio/nightmare.git)|A high-level browser automation library.|19067|electron, headless-chrome, browser, phantomjs, chrome|27-4-2019|  
 |71|[node-ecstatic](https://github.com/jfhbrook/node-ecstatic.git)|A static file server middleware that works with core http, express or on the CLI!|976||1-4-2020|  
 |72|[node-static](https://github.com/cloudhead/node-static.git)|rfc 2616 compliant HTTP static-file server module, with built-in caching.|2141||31-7-2021|  
@@ -88,7 +88,7 @@
 |82|[ng2-datepicker](https://github.com/bleenco/ng2-datepicker.git)|Angular2 Datepicker Component|307||15-6-2021|  
 |83|[covalent](https://github.com/Teradata/covalent.git)|Teradata UI Platform built on Angular Material|2231|angular, material-design, angular-material, material, teradata, angular7|13-12-2021|  
 |84|[ngx-datatable](https://github.com/swimlane/ngx-datatable.git)|✨  A feature-rich yet lightweight data-table crafted for Angular|4420|angular, datatable, table, grid, angular-components, datagrid, typescript, angular4, angular2, hacktoberfest|9-11-2021|  
-|85|[components](https://github.com/angular/components.git)|Component infrastructure and Material Design components for Angular|22390|angular, material-design, material, angular-components|17-12-2021|  
+|85|[components](https://github.com/angular/components.git)|Component infrastructure and Material Design components for Angular|22389|angular, material-design, material, angular-components|17-12-2021|  
 |86|[md2](https://github.com/Promact/md2.git)|Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.|388|material, angular2, chip, material-design, color-picker, accordion, datepicker, autocomplete|7-2-2019|  
 |87|[ng2-toasty](https://github.com/akserg/ng2-toasty.git)|Angular2 Toasty component shows growl-style alerts and messages for your app.|293|angular, angular2, angular4, growl, toasty|13-6-2017|  
 |88|[france.code-civil](https://github.com/steeve/france.code-civil.git)|Le code civil français sous git|2652||31-3-2015|  
@@ -104,7 +104,7 @@
 |98|[At.js](https://github.com/ichord/At.js.git)|Add Github like mentions autocomplete to your application.|5292||19-2-2019|  
 |99|[electron](https://github.com/electron/electron.git)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|99543|electron, javascript, c-plus-plus, html, css, chrome, nodejs, v8, works-with-codespaces|29-12-2021|  
 |100|[lab](https://github.com/dgageot/lab.git)|Lab Modern Web With Java Devoxx Franc 2014|5||10-9-2014|  
-|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217776|education, books, list, resource, hacktoberfest|28-12-2021|  
+|101|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|217778|education, books, list, resource, hacktoberfest|28-12-2021|  
 |102|[sublime-undocs](https://github.com/guillermooo/sublime-undocs.git)|Sublime Text Unofficial Documentation|598||20-3-2020|  
 |103|[popcorn-app](https://github.com/popcorn-time/popcorn-app.git)|An experiment using the peerflix module of nodejs and connecting a bunch of APIs.|5220||15-3-2014|  
 |104|[bootzooka](https://github.com/softwaremill/bootzooka.git)|Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.|619|skeleton, scala, angular|29-12-2021|  
